@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(115, 55, 143);
+    text-align: center;
+}
+
+.espec{
+    background-color: #E6E6FA;
+    border-width: 2px;
+    border-color: black;
+    border-style: double;
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+}
+
+.gatinho{
+    text-align: center;
+}
+
+td{
+    width: 33%;
+}
+
+.baixoFigura{
+    width: 10%;
+}
+
+
+
+
